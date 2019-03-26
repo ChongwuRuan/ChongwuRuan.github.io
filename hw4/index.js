@@ -8,11 +8,14 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'The larva is much paler in colour than those which I have caught as they emerged.',
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+  'example4':
+      'We were not much more than a quarter of an hour out of our ship till we saw her sink, and then I understood for the first time what was meant by a ship foundering in the sea.'
+      
 };
 
 function status(statusText) {
