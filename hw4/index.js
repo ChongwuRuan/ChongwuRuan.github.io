@@ -12,9 +12,13 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'But poverty soon drove him to Cumae.',
+      'Long was the time which elapsed before any one dreamt of questioning the
+unity of the authorship of the Homeric poems.',
   'example4':
-      'My father, a wise and grave man, gave me serious and excellent counsel against what he foresaw was my design.'
+      'I had slept well in the night, and was now no more sea-sick, but very
+cheerful, looking with wonder upon the sea that was so rough and terrible
+the day before, and could be so calm and so pleasant in so little a time
+after.'
 };
 
 function status(statusText) {
