@@ -8,8 +8,8 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Grandville, whose pencil rivals the author's pen, has fallen into the
-      same error.',
+      "Grandville, whose pencil rivals the author's pen, has fallen into the
+      same error.",
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
