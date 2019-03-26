@@ -8,11 +8,17 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Grandville, whose pencil rivals the author's pen, has fallen into the
+      same error.',
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+  'example4': 
+      'I had slept well in the night, and was now no more sea-sick, but very
+      cheerful, looking with wonder upon the sea that was so rough and terrible
+      the day before, and could be so calm and so pleasant in so little a time
+      after.'
 };
 
 function status(statusText) {
