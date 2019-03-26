@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'It is unfortunate for us, that, of some of the greatest men, we know least, and talk most.',
   'example4':
       'We were not much more than a quarter of an hour out of our ship till we saw her sink, and then I understood for the first time what was meant by a ship foundering in the sea.'
       
