@@ -12,9 +12,9 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Long was the time which elapsed before any one dreamt of questioning the unity of the authorship of the Homeric poems.',
+      'Long was the time ',
   'example4':
-      'I had slept well in the night, and was now no more sea-sick, but very cheerful, looking with wonder upon the sea that was so rough and terrible the day before, and could be so calm and so pleasant in so little a time after.'
+      'I had slept well in the night, so rough and tea time after.'
 };
 
 function status(statusText) {
